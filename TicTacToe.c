@@ -108,7 +108,7 @@ void playGame(int n, char board[n][n], char P1, char P2) {
                 printBoard(n, board);
                 countP2++;
                 if(checkWinner(n, board, P2)) {
-                    printf("P2 won the game!🥳");
+                    printf("P2 won the game!");
                     return;
                 }
             }
