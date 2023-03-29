@@ -18,3 +18,6 @@ gcc TicTacToe.c
 
 ### Examples
 
+<img src="Screenshot 2023-03-29 082503.png" alt="Example 1">
+
+<img src="Screenshot 2023-03-29 082958.png" alt="Example 2">
