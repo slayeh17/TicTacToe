@@ -16,6 +16,8 @@ gcc TicTacToe.c
 ./a.out //For Linux
 ```
 
+#### Inorder to play the game first enter the symbols player 1 and player 2 want to use respectively then enter the coordinates of the 3x3 matrix board one by one starting from player 1.
+
 ### Examples
 
 <img src="Screenshot 2023-03-29 082503.png" alt="Example 1">
